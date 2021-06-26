@@ -245,4 +245,4 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 ## Extra Resources Added by Yours Truly
 
 * [as close to those 'clusterHQ' articles as you'll get](https://www.machinist.readthedocs.org)
-** [the comment that suggests the latter to be _valid_ in the firstplace](https://www.reddit.com/r/Python/comments/8adegm/the_case_of_the_missing_state_machine_articles/dwyjtnd?utm_source=share&utm_medium=web2x&context=3)
+| [the comment that suggests the latter to be _valid_ in the firstplace](https://www.reddit.com/r/Python/comments/8adegm/the_case_of_the_missing_state_machine_articles/dwyjtnd?utm_source=share&utm_medium=web2x&context=3)
