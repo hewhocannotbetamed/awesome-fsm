@@ -29,6 +29,7 @@ Any comments or suggestions about nice quality content that should be in this re
 	 - [Ruby](#ruby)
 	 - [Go](#go)
 	 - [C++](#c++)
+- [Extra Resource Added by Yours Truly](#extra-resources-added-by-yours-truly)
 
 ## Introduction
 
@@ -241,10 +242,7 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 * [sml](https://boost-experimental.github.io/sml/index.html)
 * [Statechart](https://www.boost.org/doc/libs/1_73_0/libs/statechart/doc/index.html)
 
-## Contributing
+## Extra Resources Added by Yours Truly
 
-Your contributions are welcome! If you have any content that can contribute to our list, please open a PR.
-
-- - -
-
-If there are any questions about this list or about any other topic, please contact me on Twitter  [@leonardomso](https://twitter.com/leonardomso) and I'll gladly answer it.
+* [as close to those 'clusterHQ' articles as you'll get](https://www.machinist.readthedocs.org)
+** [the comment that suggests the latter to be _valid_ in the firstplace](https://www.reddit.com/r/Python/comments/8adegm/the_case_of_the_missing_state_machine_articles/dwyjtnd?utm_source=share&utm_medium=web2x&context=3)
